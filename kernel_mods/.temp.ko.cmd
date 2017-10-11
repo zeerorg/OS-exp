@@ -1,0 +1,1 @@
+cmd_/home/rishabh/Documents/OS/myexperiment/kernel_mods/temp.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/rishabh/Documents/OS/myexperiment/kernel_mods/temp.ko /home/rishabh/Documents/OS/myexperiment/kernel_mods/temp.o /home/rishabh/Documents/OS/myexperiment/kernel_mods/temp.mod.o ;  true
